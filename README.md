@@ -51,10 +51,11 @@ OnScreen-Light solves this by displaying a bright, adjustable light overlay that
 
 ---
 
-## 📥 Download APK (Ready to Use)
 
-👉 **Direct APK Download**  
-[⬇️ Download OnScreen-Light v1.0](OnScreen-Light-v1.0.apk)
+### 🔹 Direct Download (Recommended)
+[⬇️ Download OnScreen-Light v1.0](https://raw.githubusercontent.com/0xrohitsen/OnScreen-Light/main/OnScreen-Light-v1.0.apk)
+
+> This link downloads the APK directly without opening a GitHub page.
 
 ---
 
