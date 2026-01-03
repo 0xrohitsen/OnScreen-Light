@@ -44,12 +44,11 @@ OnScreen-Light solves this by displaying a bright, adjustable light overlay that
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/app_icon.png" width="120" alt="OnScreen-Light App Icon">
+  <img src="images/app_icon.png" width="120" alt="App Icon">
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/main_screen.png" width="260" alt="Main Screen">
 </p>
 
-<p align="center">
-  <img src="images/main_screen.png" width="300" alt="OnScreen-Light Main Screen">
-</p>
 
 ---
 
