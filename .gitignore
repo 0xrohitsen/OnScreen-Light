@@ -1,0 +1,28 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Specific build folders
+app/build/
+build/
+
+# Secrets
+local.properties
+
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
