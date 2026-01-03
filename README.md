@@ -1,62 +1,122 @@
-# OnScreen Light ☀️
+# OnScreen-Light 📱
 
-OnScreen Light is a **100% open-source, privacy-focused Android utility** designed to keep your screen ON with a **minimal, battery-efficient display**.
+![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success.svg)
 
-It is ideal for nightstand clocks, desk utilities, development testing, or any situation where you need to prevent screen timeout — without ads, tracking, or background services.
-
----
-
-## 📦 Download APK
-
-➡️ **Direct APK download (v1.0):**  
-https://github.com/0xrohitsen/OnScreen-Light/blob/main/OnScreen-Light-v1.0.apk
-
-> ⚠️ Note: This is a debug APK. Enable *“Install unknown apps”* on your device to install.
+**OnScreen-Light** is a lightweight, open-source Android utility that turns your phone screen into a **front-facing fill light**.  
+Ideal for video calls, selfies, night use, and devices without a front flash.
 
 ---
 
-## ✨ Features
+## 💡 Why OnScreen-Light?
 
-- 🖤 **OLED-Friendly**
-  - Pure black background (`#000000`) to minimize battery usage on AMOLED/OLED displays.
+Many Android smartphones do not include a **front camera flash**.  
+OnScreen-Light solves this by displaying a bright, adjustable light overlay that stays **on top of other apps**.
 
-- 🕒 **Minimal Analog Clock**
-  - High-fidelity, architectural analog clock with thin white hands and clean markers.
-
-- ⏱️ **Clock Launcher Icon**
-  - Custom-designed, high-quality analog clock icon matching the app’s minimal aesthetic.
-
-- 🖥️ **Immersive Fullscreen**
-  - Automatically hides status bar and navigation bar for distraction-free use.
-
-- 🔋 **Keep Screen On**
-  - Uses `FLAG_KEEP_SCREEN_ON` to prevent the device from sleeping while the app is active.
-
-- 🔒 **Privacy & Efficiency First**
-  - 🚫 Zero permissions  
-  - 🚫 No internet access  
-  - 🚫 No ads or analytics  
-  - 🚫 No background services  
-  - 🚫 Stops completely when EXIT is pressed  
+### Perfect for:
+- 📞 WhatsApp, Zoom, Google Meet video calls
+- 🤳 Low-light selfies
+- 🌙 Night light usage
+- 🎥 Content creators & streamers
 
 ---
 
-## 🚀 Usage
+## 🚀 Features
 
-1. **Open**  
-   Launch **OnScreen Light** manually from the app launcher.
+- ✅ **Display Over Other Apps**  
+  Light stays active while using camera or video apps
 
-2. **Use**  
-   The screen will remain ON with a black display and minimal analog clock.
+- 🎨 **Adjustable Light Color**  
+  Choose the tone that suits your environment
 
-3. **Exit**  
-   Tap the **EXIT** button to close the app and restore normal screen timeout behavior.
+- 🔆 **Brightness Control**  
+  Easily control light intensity
+
+- 🪶 **Lightweight & Fast**  
+  Small APK size with low battery consumption
+
+- 🔓 **Fully Open Source**  
+  Transparent and privacy-friendly
 
 ---
 
-## 🛠️ Build From Source
+## 📸 Screenshots
 
-To build the APK locally:
+<p align="center">
+  <img src="images/app_icon.png" width="120" alt="OnScreen-Light App Icon">
+</p>
 
-```bash
-./gradlew assembleDebug
+<p align="center">
+  <img src="images/main_screen.png" width="300" alt="OnScreen-Light Main Screen">
+</p>
+
+---
+
+## 📥 Download & Installation
+
+### Install APK Manually
+
+1. Download the APK from this repository  
+2. Open the APK on your Android device  
+3. Enable **Install from Unknown Sources** if prompted  
+4. Launch the app and grant required permissions
+
+👉 **Direct Download:**  
+[⬇️ Download OnScreen-Light v1.0](OnScreen-Light-v1.0.apk)
+
+---
+
+## 🔐 Required Permission
+
+- **Display over other apps**  
+  Required to show the light overlay on top of other applications
+
+---
+
+## 📱 Compatibility
+
+- Android **8.0 (Oreo)** and above
+- Phones & tablets supported
+- No root required
+---
+
+## 📂 Project Structure
+OnScreen-Light/
+├── app/
+├── images/
+│ ├── app_icon.png
+│ └── main_screen.png
+├── OnScreen-Light-v1.0.apk
+├── README.md
+├── LICENSE
+└── build.gradle.kts
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome and appreciated!
+
+1. Fork the repository  
+2. Create a new branch  
+3. Commit your changes  
+4. Open a Pull Request  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⭐ Support
+
+If you find this project useful:
+- ⭐ Star the repository
+- 🐞 Report bugs in **Issues**
+- 💡 Suggest new features
+
+Made with ❤️ for the Android open-source community.
